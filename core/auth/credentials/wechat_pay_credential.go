@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/consts"
-	"github.com/wechatpay-apiv3/wechatpay-go/utils"
+	"github.com/Marek-maxs/wechatpay-go/core/auth"
+	"github.com/Marek-maxs/wechatpay-go/core/consts"
+	"github.com/Marek-maxs/wechatpay-go/utils"
 )
 
 // WechatPayCredentials 微信支付请求报文头 Authorization 信息生成器

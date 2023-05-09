@@ -17,11 +17,11 @@ import (
 	"github.com/agiledragon/gomonkey"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/wechatpay-apiv3/wechatpay-go/core"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/consts"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/option"
-	"github.com/wechatpay-apiv3/wechatpay-go/services/certificates"
-	"github.com/wechatpay-apiv3/wechatpay-go/utils"
+	"github.com/Marek-maxs/wechatpay-go/core"
+	"github.com/Marek-maxs/wechatpay-go/core/consts"
+	"github.com/Marek-maxs/wechatpay-go/core/option"
+	"github.com/Marek-maxs/wechatpay-go/services/certificates"
+	"github.com/Marek-maxs/wechatpay-go/utils"
 )
 
 const (

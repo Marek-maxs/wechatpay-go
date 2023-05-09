@@ -11,8 +11,8 @@ import (
 
 	"github.com/agiledragon/gomonkey"
 	"github.com/stretchr/testify/require"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth"
-	"github.com/wechatpay-apiv3/wechatpay-go/utils"
+	"github.com/Marek-maxs/wechatpay-go/core/auth"
+	"github.com/Marek-maxs/wechatpay-go/utils"
 )
 
 type mockSigner struct {

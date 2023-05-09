@@ -7,14 +7,14 @@ import (
 	"crypto/rsa"
 	"crypto/x509"
 
-	"github.com/wechatpay-apiv3/wechatpay-go/core"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth/signers"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth/validators"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/auth/verifiers"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/cipher/ciphers"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/cipher/decryptors"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/cipher/encryptors"
-	"github.com/wechatpay-apiv3/wechatpay-go/core/downloader"
+	"github.com/Marek-maxs/wechatpay-go/core"
+	"github.com/Marek-maxs/wechatpay-go/core/auth/signers"
+	"github.com/Marek-maxs/wechatpay-go/core/auth/validators"
+	"github.com/Marek-maxs/wechatpay-go/core/auth/verifiers"
+	"github.com/Marek-maxs/wechatpay-go/core/cipher/ciphers"
+	"github.com/Marek-maxs/wechatpay-go/core/cipher/decryptors"
+	"github.com/Marek-maxs/wechatpay-go/core/cipher/encryptors"
+	"github.com/Marek-maxs/wechatpay-go/core/downloader"
 )
 
 type withAuthCipherOption struct{ settings core.DialSettings }

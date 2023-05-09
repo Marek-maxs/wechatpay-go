@@ -26,9 +26,9 @@ import (
 	"context"
 	"log"
 
-	"github.com/wechatpay-apiv3/wechatpay-go/core"
-	"github.com/wechatpay-apiv3/wechatpay-go/services/weixinpayscanandride"
-	"github.com/wechatpay-apiv3/wechatpay-go/utils"
+	"github.com/Marek-maxs/wechatpay-go/core"
+	"github.com/Marek-maxs/wechatpay-go/services/weixinpayscanandride"
+	"github.com/Marek-maxs/wechatpay-go/utils"
 )
 
 func main() {
@@ -133,9 +133,9 @@ import (
 	"context"
 	"log"
 
-	"github.com/wechatpay-apiv3/wechatpay-go/core"
-	"github.com/wechatpay-apiv3/wechatpay-go/services/weixinpayscanandride"
-	"github.com/wechatpay-apiv3/wechatpay-go/utils"
+	"github.com/Marek-maxs/wechatpay-go/core"
+	"github.com/Marek-maxs/wechatpay-go/services/weixinpayscanandride"
+	"github.com/Marek-maxs/wechatpay-go/utils"
 )
 
 func main() {
