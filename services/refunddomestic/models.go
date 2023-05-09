@@ -1094,6 +1094,7 @@ func (e ReqFundsAccount) Ptr() *ReqFundsAccount {
 // Enums of ReqFundsAccount
 const (
 	REQFUNDSACCOUNT_AVAILABLE ReqFundsAccount = "AVAILABLE"
+	REQFUNDSACCOUNT_UNAVAILABLE ReqFundsAccount = "UNAVAILABLE"
 )
 
 // Scope * `GLOBAL` - 全场代金券, 全场优惠类型 * `SINGLE` - 单品优惠, 单品优惠类型
